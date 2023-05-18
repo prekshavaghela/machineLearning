@@ -1,0 +1,1 @@
+Implemented CNN, FNN, Bayesian
