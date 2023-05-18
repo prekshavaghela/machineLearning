@@ -1,1 +1,1 @@
-Made KNN and optimized it for the provided datasets. 
+Made KNN with the K-nearest neighbor with distance computations in two different methods (original and Manhattan)
